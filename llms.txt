@@ -1,0 +1,38 @@
+# Florida Water Softener Match
+
+> Florida Water Softener Match is a free referral service that connects Florida homeowners with up to 3 independent local water softener and filtration companies. It is not a contractor and does not perform water softener and filtration work. Content cites Florida statutes, utility water-quality reports and city/county permit offices, and labels national estimates as such.
+
+Last updated: 2026-11-21
+
+## Key facts (sourced on the linked pages)
+- Installing and maintaining water conditioning units by operators of water conditioning services is exempt from Florida contractor licensing, and local governments may not require such operators to be licensed as plumbers, s. 489.103(15) F.S.
+- JEA publishes hardness by ZIP: e.g. 32081 (Nocatee) 372 ppm / 22 gpg, 32082 (Ponte Vedra) 346 ppm / 20 gpg, 32259 (Fruit Cove) 305 ppm / 18 gpg, 32073 (Orange Park) 128 ppm / 8 gpg (JEA).
+- City of Atlantic Beach water: 300 mg/L, 18 grains per gallon (City of Atlantic Beach FAQ).
+- Angi 2026 national average for water softener installation: $1,500 (range $200-$6,000).
+
+## Guides
+- [Northeast Florida water hardness by utility and ZIP (2026)](https://colemer.github.io/florida-water-softener-match/guides/northeast-florida-water-hardness-by-utility/): Published hardness for JEA ZIP codes, Atlantic Beach and other local systems, and which utilities treat with reverse osmosis.
+- [Does a water softener installer need a license in Florida?](https://colemer.github.io/florida-water-softener-match/guides/florida-water-softener-license-rules/): What s. 489.103(15) exempts, what it doesn't, and how to check a company before you hire.
+
+## Service areas
+- [Water Softeners & Filtration in St. Augustine, FL](https://colemer.github.io/florida-water-softener-match/water-softeners/st-augustine/): City of St. Augustine Utilities supplies most homes; The City of St. Augustine draws from deep wells in the Upper Floridan aquifer and treats with reverse osmosis, filtration, aeration and free chlorine.
+- [Water Softeners & Filtration in Ponte Vedra Beach, FL](https://colemer.github.io/florida-water-softener-match/water-softeners/ponte-vedra-beach/): JEA (for most 32082 customers it lists) supplies most homes; JEA lists ZIP 32082 at 346 ppm of hardness, about 20 grains per gallon, which JEA classifies as very hard (anything over 180 ppm).
+- [Water Softeners & Filtration in Fruit Cove & St. Johns, FL](https://colemer.github.io/florida-water-softener-match/water-softeners/fruit-cove-st-johns/): JEA supplies most homes; JEA lists ZIP 32259 (Fruit Cove and St. Johns) at 305 ppm, about 18 grains per gallon, in its very hard class.
+- [Water Softeners & Filtration in World Golf Village, FL](https://colemer.github.io/florida-water-softener-match/water-softeners/world-golf-village/): JEA or St. Johns County Utility, depending on address supplies most homes; JEA lists ZIP 32092 (World Golf Village and northwest St. Augustine) at 307 ppm, about 18 grains per gallon.
+- [Water Softeners & Filtration in Jacksonville Beach, FL](https://colemer.github.io/florida-water-softener-match/water-softeners/jacksonville-beach/): City of Jacksonville Beach supplies most homes; Jacksonville Beach supplies its own water from artesian wells 900 to 1,200 feet into the Floridan Aquifer.
+- [Water Softeners & Filtration in Atlantic Beach & Neptune Beach, FL](https://colemer.github.io/florida-water-softener-match/water-softeners/atlantic-beach-neptune-beach/): City of Atlantic Beach / City of Neptune Beach supplies most homes; Atlantic Beach publishes its hardness for softener settings: 300 milligrams per liter, or 18 grains per gallon.
+- [Water Softeners & Filtration in Fleming Island, FL](https://colemer.github.io/florida-water-softener-match/water-softeners/fleming-island/): Clay County Utility Authority (CCUA) supplies most homes; CCUA's water comes from the Floridan Aquifer and is aerated to remove odor and chlorinated.
+- [Water Softeners & Filtration in Orange Park, FL](https://colemer.github.io/florida-water-softener-match/water-softeners/orange-park/): Town of Orange Park (in town); JEA or CCUA nearby supplies most homes; The Town of Orange Park's water comes from four wells in the Upper Floridan Aquifer.
+- [Water Softeners & Filtration in Fernandina Beach, FL](https://colemer.github.io/florida-water-softener-match/water-softeners/fernandina-beach/): City of Fernandina Beach supplies most homes; Fernandina Beach draws ground water from six Floridan Aquifer wells and treats it with aeration for odor and chlorination for disinfection.
+
+## Services
+- [Water Softener Installation](https://colemer.github.io/florida-water-softener-match/services/water-softener-installation/)
+- [Softener Replacement & Repair](https://colemer.github.io/florida-water-softener-match/services/softener-replacement/)
+- [Whole-House Filtration](https://colemer.github.io/florida-water-softener-match/services/whole-house-filtration/)
+- [Reverse Osmosis Drinking Water](https://colemer.github.io/florida-water-softener-match/services/reverse-osmosis/)
+
+## About
+- [About and how it works](https://colemer.github.io/florida-water-softener-match/about/)
+- [Partner contractors](https://colemer.github.io/florida-water-softener-match/partners/)
+- [Privacy](https://colemer.github.io/florida-water-softener-match/privacy/)
+- [Terms](https://colemer.github.io/florida-water-softener-match/terms/)

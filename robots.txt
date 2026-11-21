@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /florida-water-softener-match/thank-you/
+
+Sitemap: https://colemer.github.io/florida-water-softener-match/sitemap.xml
