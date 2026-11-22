@@ -77,11 +77,18 @@
           else { throw new Error((res.j && res.j.message) || 'Send failed'); }
         })
         .catch(function () {
-          btn.disabled = false; status.className = 'form-status err';
+          btn.disabled = false; f.classList.add('failed'); status.className = 'form-status err';
           status.textContent = 'Sorry, that did not go through. Please try again in a few minutes.';
         });
     });
   });
+  // Scroll reveal (progressive; elements are visible without JS)
+  if ('IntersectionObserver' in window && !matchMedia('(prefers-reduced-motion: reduce)').matches) {
+    var els = document.querySelectorAll('.reveal');
+    document.documentElement.classList.add('rv');
+    var io = new IntersectionObserver(function (en) { en.forEach(function (e) { if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); } }); }, { rootMargin: '0px 0px -8% 0px' });
+    els.forEach(function (el) { var r = el.getBoundingClientRect(); if (r.top < innerHeight) el.classList.add('in'); io.observe(el); });
+  }
   // Mobile sticky CTA: hide while a lead form is on screen.
   var cta = document.querySelector('.sticky-cta'), form = document.querySelector('form.lead');
   if (cta && form && 'IntersectionObserver' in window) {
