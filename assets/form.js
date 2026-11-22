@@ -22,8 +22,20 @@
       });
       return ok;
     }
+    // Instant ballpark: typical range from the chosen size/type tile (sourced figures baked into data-lo/data-hi). Client-side only.
+    var bp = f.querySelector('.ballpark');
+    function money(v) { return '$' + Number(v).toLocaleString('en-US'); }
+    function ballpark() {
+      if (!bp) return;
+      var pick = f.querySelector('input[data-lo]:checked');
+      if (!pick) return;
+      bp.querySelector('.bp-range').textContent = money(pick.dataset.lo) + ' \u2013 ' + money(pick.dataset.hi);
+      bp.querySelector('.bp-note').textContent = pick.dataset.note || '';
+    }
+    f.querySelectorAll('input[data-lo]').forEach(function (r) { r.addEventListener('change', ballpark); });
     function show(i, focus) {
       cur = i;
+      ballpark();
       steps.forEach(function (s, k) { s.classList.toggle('on', k === i); });
       if (bar) bar.style.width = Math.round(((i + 1) / steps.length) * 100) + '%';
       if (count) count.textContent = 'Step ' + (i + 1) + ' of ' + steps.length;
@@ -56,7 +68,7 @@
         // jump to the first step with a problem
         for (var i = 0; i < steps.length; i++) { if (fields(i).some(function (el) { return !el.checkValidity(); })) { if (steps.length > 1) show(i, true); stepValid(i); break; } }
         status.className = 'form-status err';
-        status.textContent = 'Please answer each step: project type, your area and a 5-digit ZIP, timing, then name, phone and email.';
+        status.textContent = 'Please answer each step: project type, your area and a 5-digit ZIP, size, timing, then name, phone and email.';
         return;
       }
       if (f.dataset.configured !== '1') {

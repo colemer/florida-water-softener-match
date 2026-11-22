@@ -221,3 +221,12 @@ footer .disclosure{margin-top:22px;line-height:1.65}footer .small{color:#97a3cf}
 .rv .reveal.in{opacity:1;transform:none}
 @media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important;scroll-behavior:auto!important}.rv .reveal{opacity:1;transform:none}}
 img{max-width:100%;height:auto}
+
+.quiz-sub{margin:-.35em 0 .6em;color:var(--muted,#55607a)}
+.ballpark{background:linear-gradient(135deg,#eef5ff,#f6fbf7);border:1px solid #d6e4fb;border-radius:14px;padding:14px 16px;margin:4px 0 12px}
+.ballpark .bp-k{margin:0;font-weight:700;font-size:.85rem;text-transform:uppercase;letter-spacing:.04em;color:var(--ok)}
+.ballpark .bp-big{margin:.15em 0;font-size:1.9rem;font-weight:800;color:var(--navy);line-height:1.15}
+.ballpark .bp-note{margin:.2em 0;font-weight:600}
+.ballpark .bp-fine{margin:.35em 0 0;color:#5b6477}
+.bp-q{font-weight:700;margin:.2em 0 .5em}
+.hero .hero-disc,.hero-disc{color:#d5ddf0;margin-top:.6em}
