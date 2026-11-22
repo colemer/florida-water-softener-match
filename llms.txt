@@ -9,10 +9,14 @@ Last updated: 2026-11-21
 - JEA publishes hardness by ZIP: e.g. 32081 (Nocatee) 372 ppm / 22 gpg, 32082 (Ponte Vedra) 346 ppm / 20 gpg, 32259 (Fruit Cove) 305 ppm / 18 gpg, 32073 (Orange Park) 128 ppm / 8 gpg (JEA).
 - City of Atlantic Beach water: 300 mg/L, 18 grains per gallon (City of Atlantic Beach FAQ).
 - Angi 2026 national average for water softener installation: $1,500 (range $200-$6,000).
+- City of Tampa water averaged 211 mg/L total hardness (12.3 grains per gallon) in 2025 (City of Tampa 2025 water quality report).
+- Pinellas County Utilities averaged 217 ppm hardness in 2025 and recommends a softener setting of 11.1 to 14.3 grains per gallon (2025 report).
 
 ## Guides
 - [Northeast Florida water hardness by utility and ZIP (2026)](https://colemer.github.io/florida-water-softener-match/guides/northeast-florida-water-hardness-by-utility/): Published hardness for JEA ZIP codes, Atlantic Beach and other local systems, and which utilities treat with reverse osmosis.
 - [Does a water softener installer need a license in Florida?](https://colemer.github.io/florida-water-softener-match/guides/florida-water-softener-license-rules/): What s. 489.103(15) exempts, what it doesn't, and how to check a company before you hire.
+- [Tampa Bay water hardness by utility, and what a softener costs (2026)](https://colemer.github.io/florida-water-softener-match/guides/tampa-bay-water-hardness-softener-costs/): Hardness and treatment from 2024-2025 water reports for Tampa, St. Pete, Pinellas County, Clearwater, Dunedin and Tarpon Springs, plus national softener costs.
+- [Orlando-area tap water: treatment, sodium and softener costs (2026)](https://colemer.github.io/florida-water-softener-match/guides/orlando-area-water-treatment-softener-costs/): What 2024-2025 water reports say for Winter Park, Oviedo, Sanford, Toho (Kissimmee), Winter Garden and Lake Mary, and what softeners cost.
 
 ## Service areas
 - [Water Softeners & Filtration in St. Augustine, FL](https://colemer.github.io/florida-water-softener-match/water-softeners/st-augustine/): City of St. Augustine Utilities supplies most homes; The City of St. Augustine draws from deep wells in the Upper Floridan aquifer and treats with reverse osmosis, filtration, aeration and free chlorine.
